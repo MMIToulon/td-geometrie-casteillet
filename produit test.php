@@ -3,8 +3,8 @@
 	require_once("ProduitsKilo.php");
 	require_once("ProduitUnite.php");
 	
-	$Produit1 = new ProduitKilo("Kiwi",50);
-	$Produit2 = new ProduitUnite("Noix de Coco",5);
+	$Produit1 = new ProduitKilo("Pate",5);
+	$Produit2 = new ProduitUnite("Banane",10);
 	
 	//FONCTION PUBLIQUE
 	$nbr = Produit::$NbrProduits;

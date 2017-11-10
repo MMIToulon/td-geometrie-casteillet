@@ -1,5 +1,5 @@
 <?php
-require_once("Produit.php");
+require_once("produit.php");
 class ProduitUnite extends Produit {
 	
 	protected $PrixUnite;

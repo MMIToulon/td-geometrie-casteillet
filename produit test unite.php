@@ -1,6 +1,6 @@
 <?php
-	require_once("Produit.php");
-	require_once("ProduitUnite.php");
+	require_once("produit.php");
+	require_once("produit unite.php");
 	$Produit1 = new ProduitUnite("Pate",1);
 	$Produit2 = new ProduitUnite("Banane",5);
 	//3 PAQUETS DE PATES

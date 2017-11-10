@@ -1,6 +1,6 @@
 <?php
-	require_once("Produit.php");
-	require_once("ProduitsKilo.php");
+	require_once("produit.php");
+	require_once("produit kilo.php");
 	$Produit1 = new ProduitKilo("Pate",5);
 	$Produit2 = new ProduitKilo("Banane",10);
 	//2 KILO DE PATE

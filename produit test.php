@@ -1,7 +1,7 @@
 <?php
-	require_once("Produit.php");
-	require_once("ProduitsKilo.php");
-	require_once("ProduitUnite.php");
+	require_once("produit.php");
+	require_once("produit kilo.php");
+	require_once("produit unite.php");
 	
 	$Produit1 = new ProduitKilo("Pate",5);
 	$Produit2 = new ProduitUnite("Banane",10);
